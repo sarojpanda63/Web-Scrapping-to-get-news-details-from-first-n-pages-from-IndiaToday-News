@@ -1,1 +1,1 @@
-# Web-Scrapping-to-get-news-details-from-first-n-pages-from-IndiaToday-News
+# Web-Scrapping-to-get-news-details-of-India-from-first-n-pages-from-IndiaToday
