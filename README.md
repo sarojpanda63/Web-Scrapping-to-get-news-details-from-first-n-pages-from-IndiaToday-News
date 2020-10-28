@@ -18,4 +18,9 @@ Enter the number of pages you required to get the news
 You will get a file (IndiaToday.csv) which consists of N*12 News article heading
 
 ![htr](./img/WSIT4.png)
+
 ![htr](./img/WSIT5.png)
+
+## Output CSV File looks like the following picture
+
+![htr](./img/WSIT6.png)
